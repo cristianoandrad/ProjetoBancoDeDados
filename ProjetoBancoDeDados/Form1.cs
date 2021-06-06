@@ -26,10 +26,26 @@ namespace ProjetoBancoDeDados
             try
             {
                 con.Open();
+
+                //Criando comando SQL
+                SqlCommand cmm = new SqlCommand();
+                cmm.CommandText = "select * from tb_clientes";
+                cmm.CommandType = CommandType.Text;
+                cmm.Connection = con;                
+                SqlDataReader dr;
+                dr = cmm.ExecuteReader();
+
+                //Carregar dados para dataGrid
+                DataTable dt = new DataTable();
+                dt.Load(dr);
+                dataGridView1.DataSource = dt;
+                dataGridView1.Refresh();
+
+
                 con.Close();
                 MessageBox.Show("A conexão foi realizada com sucesso! ");
             }
-            catch (ExecutionEngineException ex)
+            catch (Exception ex)
             {
                 MessageBox.Show(String.Format("Falha na conexao: (0)", ex.Message));
             }
