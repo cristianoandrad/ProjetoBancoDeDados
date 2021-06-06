@@ -1,0 +1,10 @@
+C:\Users\Suporte\source\repos\ProjetoBancoDeDados\ProjetoBancoDeDados\bin\Debug\ProjetoBancoDeDados.exe.config
+C:\Users\Suporte\source\repos\ProjetoBancoDeDados\ProjetoBancoDeDados\bin\Debug\ProjetoBancoDeDados.exe
+C:\Users\Suporte\source\repos\ProjetoBancoDeDados\ProjetoBancoDeDados\bin\Debug\ProjetoBancoDeDados.pdb
+C:\Users\Suporte\source\repos\ProjetoBancoDeDados\ProjetoBancoDeDados\obj\Debug\ProjetoBancoDeDados.csprojAssemblyReference.cache
+C:\Users\Suporte\source\repos\ProjetoBancoDeDados\ProjetoBancoDeDados\obj\Debug\ProjetoBancoDeDados.Form1.resources
+C:\Users\Suporte\source\repos\ProjetoBancoDeDados\ProjetoBancoDeDados\obj\Debug\ProjetoBancoDeDados.Properties.Resources.resources
+C:\Users\Suporte\source\repos\ProjetoBancoDeDados\ProjetoBancoDeDados\obj\Debug\ProjetoBancoDeDados.csproj.GenerateResource.cache
+C:\Users\Suporte\source\repos\ProjetoBancoDeDados\ProjetoBancoDeDados\obj\Debug\ProjetoBancoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\source\repos\ProjetoBancoDeDados\ProjetoBancoDeDados\obj\Debug\ProjetoBancoDeDados.exe
+C:\Users\Suporte\source\repos\ProjetoBancoDeDados\ProjetoBancoDeDados\obj\Debug\ProjetoBancoDeDados.pdb
