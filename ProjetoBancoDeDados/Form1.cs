@@ -27,7 +27,7 @@ namespace ProjetoBancoDeDados
             {
                 con.Open();
                 con.Close();
-                MessageBox.Show("A conexão foi realizada com sucesso");
+                MessageBox.Show("A conexão foi realizada com sucesso! ");
             }
             catch (ExecutionEngineException ex)
             {
